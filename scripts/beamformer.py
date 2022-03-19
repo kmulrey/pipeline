@@ -2,7 +2,6 @@ import numpy as np
 import cmath
 from scipy.optimize import fmin_powell
 import pipeline_helper as helper
-#test
 lightspeed=299792458.0
 
 
